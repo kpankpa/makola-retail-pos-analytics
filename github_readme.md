@@ -4,7 +4,7 @@
 This project analyzes over 120,000 retail transactions from open-air market trading to uncover key business drivers around sales margins, customer retention, and inventory risks. 
 
 The goal of this analysis is to evaluate the commercial case for moving traditional micro-merchants from paper ledgers to digital tablet POS systems (like Caris Retail Cloud). It also builds alternative credit and inventory risk metrics that banks and suppliers can use to evaluate unbanked traders.
-
+## dataset Link: https://drive.google.com/drive/folders/1dnKFeJYxUjwSVgf8HFbJR1o34vj27YXC?usp=drive_link 
 ---
 
 ## Business Problem & Objectives
